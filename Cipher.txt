@@ -1,4 +1,4 @@
-https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cipher-1/
+//https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cipher-1/
 #include<iostream>
 #include<string.h>
 using namespace std;
